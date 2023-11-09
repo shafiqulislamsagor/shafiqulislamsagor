@@ -3,7 +3,8 @@
 
   <em>
     I believe in my work and trust in Allah. Success does not take long if you work with focus and patience. Honesty and hard work are the main goals of being human.
-
+  <br>
+  <h4 align="center"><i>"---🥰 I do the ones I like anyway. I will also fulfill my dreams inshallah 🥰---"</i></h4>
   <br>
   <h4 align="center"><i>"---Always Work Hard and Trust the Process---"</i></h4>
 </p>
