@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Shafiqul Islam Sagor (SM):wave:</h1>
-<p align="center">
-  <a><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+and+Engineering+2nd parts;;&center=true&width=500&height=50"></a>
-</p>
+
 
   <em>
     I believe in my work and trust in Allah. Success does not take long if you work with focus and patience. Honesty and hard work are the main goals of being human.
