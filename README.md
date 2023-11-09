@@ -29,7 +29,7 @@
 <br>
 <h4> Connect with me🤝: <h4>
   </hr>
-  <a href="shafiqulislamsagor277@gmail.com">
+  <a href="mailto:shafiqulislamsagor277@gmail.com">
     <img align="left" alt="Shafiqul Islam Sagor| Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
   <a href="https://instagram.com/sagor__220277?igshid=MTZtOWxvdnpib2xuZw==">
