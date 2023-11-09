@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shafiqul Islam Sagor (SM):wave:</h1>
-[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://github.com/Rezwan66)
+
 
   <em>
     I believe in my work and trust in Allah. Success does not take long if you work with focus and patience. Honesty and hard work are the main goals of being human.
