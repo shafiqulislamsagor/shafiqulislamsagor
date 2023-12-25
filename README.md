@@ -32,10 +32,10 @@
   <a href="mailto:shafiqulislamsagor277@gmail.com">
     <img align="left" alt="Shafiqul Islam Sagor| Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
-  <a href="https://instagram.com/sagor__220277?igshid=MTZtOWxvdnpib2xuZw==">
+  <a href="https://www.instagram.com/sagor__220277/">
     <img align="left" alt="Shafiqul Islam Sagor| Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
-   <a href="https://www.facebook.com/sagordeveloper277">
+   <a href="https://www.facebook.com/sagor220277">
     <img align="left" alt="Shafiqul Islam Sagor| Github" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
   </a>
 
