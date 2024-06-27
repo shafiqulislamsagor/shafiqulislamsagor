@@ -10,7 +10,7 @@
 </p>
 
 
-✨ <b>Which I am learning</b>:
+✨ <b>Which I am learned</b>:
 
    <br>
 <code><a href="https://react.dev/" target="_blank"><img height="30" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-svg-vector.svg"></a></code>
