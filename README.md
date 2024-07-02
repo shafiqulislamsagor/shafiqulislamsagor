@@ -1,8 +1,5 @@
 <div align="center">
-  <img width="100%" src="./assets/github-header-image.png" alt="cover" />
-</div>
-<div align="center">
-  <img width="100%" src="![Header](./your-header-image-name.png)" alt="cover" />
+  <img width="80%" src="assets/github-header-image (1).png" alt="cover" />
 </div>
 
 
