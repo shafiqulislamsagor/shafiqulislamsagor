@@ -1,8 +1,11 @@
 <div align="center">
   <img width="100%" src="./assets/github-header-image.png" alt="cover" />
 </div>
+<div align="center">
+  <img width="100%" src="![Header](./your-header-image-name.png)" alt="cover" />
+</div>
 
-![Header](./your-header-image-name.png)
+
 
   <em>
     I believe in my work and trust in Allah. Success does not take long if you work with focus and patience. Honesty and hard work are the main goals of being human.
