@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="80%" src="assets/Black Gradient Minimalistic Future Technology YouTube Banner.gif" alt="cover" />
+  <img width="100%" src="assets/Black Gradient Minimalistic Future Technology YouTube Banner.gif" alt="cover" />
 </div>
 
 
