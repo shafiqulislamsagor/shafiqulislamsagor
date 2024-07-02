@@ -5,11 +5,11 @@
 ## :eyes: Current overview
 
 
-### 🔭 I’m working - In Programming Hero. 
-### 🌱 I’m exploring - Advance motion graphics for web. 
-### 👯 I’m looking - To collaborate on open source projects. 
-### 🤔 I’m trying - To help people learn web development. 
-### ⚡ Fun fact - I love to make complex origami and I can speak 5 languages.
+### 🔭 I’m working - I don't work in any company, I am busy building my skills. 
+### 🌱 I’m exploring - Advanced React JS and JavaScript. 
+### 👯 I’m looking - For Fresher frontend developer job. 
+### 🤔 I’m trying - To solve code errors and explore new technologies. 
+### ⚡ Fun fact - I like to learn new things from anyone.
 
 
 
