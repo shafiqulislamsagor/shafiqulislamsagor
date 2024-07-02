@@ -2,6 +2,11 @@
   <img width="100%" src="assets/Black Gradient Minimalistic Future Technology YouTube Banner.gif" alt="cover" />
 </div>
 
+<!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=shafiqulislamsagor&color=0E9C47&style=for-the-badge">
+
+
 ## :eyes: Current overview
 
 
@@ -58,4 +63,9 @@
 
 
 </div>
+<br>
+
+
+<!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shafiqulislamsagor&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
 
