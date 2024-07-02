@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Shafiqul Islam Sagor :wave:</h1>
-
+<div align="center">
+  <img width="100%" src="./assets/github-header-image.png" alt="cover" />
+</div>
 
   <em>
     I believe in my work and trust in Allah. Success does not take long if you work with focus and patience. Honesty and hard work are the main goals of being human.
