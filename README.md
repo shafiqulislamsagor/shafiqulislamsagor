@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/mongodb-282C34?logo=mongodb&logoColor=00F200" alt="mongodb logo" title="mongodb" height="25" />&nbsp;<img src="https://img.shields.io/badge/bootstrap-282C34?logo=bootstrap&logoColor=C21325" alt="bootstrap logo" title="bootstrap" height="25" />
 
 ### - Skills and Tools...
-<img src="https://img.shields.io/badge/JavaScript-282C34?logo=typescript&logoColor=F7DF1E" alt="typescript logo" title="JavaScript" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/typescript-282C34?logo=typescript&logoColor=F7DF1E" alt="typescript logo" title="JavaScript" height="25" />&nbsp;
 <br>
 
 
