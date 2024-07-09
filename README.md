@@ -53,7 +53,7 @@
   <h4 align="center"><i>"---🥰 I do the ones I like anyway. I will also fulfill my dreams inshallah 🥰---"</i></h4>
   <br>
   <h4 align="center"><i>"---Always Work Hard and Trust the Process---"</i></h4>
-  <h4 align="center"><i>"Last Update : 4 july 2024"</i></h4>
+  <h4 align="center"><i>"Last Update : 10 july 2024"</i></h4>
 </p>
 
 
