@@ -21,7 +21,7 @@
 ### -  Current Stats & Language Used...
 
  <div align="center">
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shafiqulislamsagor&theme=dracula" alt="shafiqulislamsagor" /></p>
+  
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shafiqulislamsagor&show_icons=true&locale=en&layout=compact&theme=dracula" alt="shafiqulislamsagor" /></p>
    <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shafiqulislamsagor&show_icons=true&locale=en&theme=dracula" alt="shafiqulislamsagor" /></p>
 </div> </br>
