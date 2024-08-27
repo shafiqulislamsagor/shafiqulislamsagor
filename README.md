@@ -18,6 +18,11 @@
 
 <br>
 
+<img align="right" alt="Coding" width="400" src="add your link 
+  here">
+
+<br>
+
 ### -  Current Stats & Language Used...
 
  <div align="center">
