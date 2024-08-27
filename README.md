@@ -19,14 +19,21 @@
 <br>
 
 
+### Working on my `GitHub stats` haha...
 
-### -  Current Stats & Language Used...
+<div align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shafiqulislamsagor&theme=transparent" height="180em" alt="Stats"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shafiqulislamsagor&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shafiqulislamsagor&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shafiqulislamsagor&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shafiqulislamsagor&theme=transparent" height="180em" alt="Commitments"/>
+</div>
 
  <div align="center">
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shafiqulislamsagor&theme=dracula" alt="shafiqulislamsagor" /></p>
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shafiqulislamsagor&show_icons=true&locale=en&layout=compact&theme=dracula" alt="shafiqulislamsagor" /></p>
-   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shafiqulislamsagor&show_icons=true&locale=en&theme=dracula" alt="shafiqulislamsagor" /></p>
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shafiqulislamsagor&theme=transparent&utcOffset=5.30" alt="shafiqulislamsagor" height="180em" /></p>
+
 </div> </br>
+
 
 
 
@@ -148,6 +155,7 @@
 <br>
 
 
+<br/>
 <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shafiqulislamsagor&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
 
